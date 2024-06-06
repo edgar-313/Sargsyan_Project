@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 13,
+        "fields": {
+            "name": "Филе",
+            "slug": "file",
+            "description": "",
+            "image": "goods_images/filee.png",
+            "price": "400.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "Куриное ассорти",
+            "slug": "kurinoe-assorti",
+            "description": "",
+            "image": "goods_images/asortikurinoe.png",
+            "price": "900.00",
+            "discount": "10.00",
+            "quantity": 5,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "Бедро куриное",
+            "slug": "bedro-kurinoe",
+            "description": "",
+            "image": "goods_images/bedro.png",
+            "price": "300.00",
+            "discount": "5.00",
+            "quantity": 21,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "Тушка курицы",
+            "slug": "tushka-kuricy",
+            "description": "",
+            "image": "goods_images/chiken.png",
+            "price": "290.00",
+            "discount": "2.50",
+            "quantity": 35,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 17,
+        "fields": {
+            "name": "Свинина на каркасе",
+            "slug": "svinina-na-karkase",
+            "description": "",
+            "image": "goods_images/svin.png",
+            "price": "400.00",
+            "discount": "0.00",
+            "quantity": 9,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 18,
+        "fields": {
+            "name": "Свиные ребра",
+            "slug": "svinye-rebra",
+            "description": "",
+            "image": "goods_images/svin2.png",
+            "price": "600.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 19,
+        "fields": {
+            "name": "Свиное филе",
+            "slug": "svinoe-file",
+            "description": "",
+            "image": "goods_images/svin3.png",
+            "price": "490.00",
+            "discount": "0.00",
+            "quantity": 15,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 20,
+        "fields": {
+            "name": "Свиной карбонад",
+            "slug": "svinoj-karbonad",
+            "description": "",
+            "image": "goods_images/svinoe.png",
+            "price": "400.00",
+            "discount": "0.00",
+            "quantity": 11,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 21,
+        "fields": {
+            "name": "Говяжий карбонад",
+            "slug": "govyazhij-karbonad",
+            "description": "",
+            "image": "goods_images/karbonat.png",
+            "price": "590.00",
+            "discount": "5.00",
+            "quantity": 7,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 22,
+        "fields": {
+            "name": "Говядина на кости",
+            "slug": "govyadina-na-kosti",
+            "description": "",
+            "image": "goods_images/nakosti.png",
+            "price": "500.00",
+            "discount": "7.50",
+            "quantity": 3,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 23,
+        "fields": {
+            "name": "Говижьи ребра",
+            "slug": "govizhi-rebra",
+            "description": "",
+            "image": "goods_images/rebro.png",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 18,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 24,
+        "fields": {
+            "name": "Говяжий стейк",
+            "slug": "govyazhij-stejk",
+            "description": "",
+            "image": "goods_images/steik.png",
+            "price": "700.00",
+            "discount": "5.00",
+            "quantity": 12,
+            "category": 20
+        }
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "model": "goods.categories",
+        "pk": 15,
+        "fields": {
+            "name": "Товар дня",
+            "slug": "tovar-dnya"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 16,
+        "fields": {
+            "name": "Товар недели",
+            "slug": "tovar-nedeli"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 17,
+        "fields": {
+            "name": "Все товары",
+            "slug": "all"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 18,
+        "fields": {
+            "name": "Курица",
+            "slug": "kurica"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 19,
+        "fields": {
+            "name": "Свинина",
+            "slug": "svinina"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 20,
+        "fields": {
+            "name": "Говядина",
+            "slug": "govyadina"
+        }
+    }
+]
